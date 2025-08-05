@@ -6,7 +6,8 @@ The chatbot provides personalized book suggestions based on user preferences.
 
 ## 🌐 Live Demo
 
-(
+(https://api.au-syd.assistant.watson.cloud.ibm.com/instances/7f407b3c-468b-4276-8807-3296bc3b7f97
+
 
 ---
 
