@@ -6,7 +6,8 @@ The chatbot provides personalized book suggestions based on user preferences.
 
 ## 🌐 Live Demo
 
-https://github.com/Dharmeshrawat/Book_recommendation_chatbot.git
+https://dharmeshrawat.github.io/Book_recommendation_chatbot/
+
 
 
 ---
